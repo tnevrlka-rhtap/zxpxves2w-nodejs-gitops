@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zxpxves2w-nodejs-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/zxpxves2w-nodejs-gitops
